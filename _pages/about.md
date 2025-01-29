@@ -30,7 +30,7 @@ My current research interest mainly lies in LLMs and large foundational models, 
 
 †: corresponding author; *:equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/paper/DrHouse.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
