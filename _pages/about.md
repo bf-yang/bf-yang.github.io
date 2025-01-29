@@ -35,7 +35,7 @@ My current research interest mainly lies in LLMs and large foundational models, 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 
-†: corresponding author; *:equal contribution
+†: corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/SocialMind.jpeg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
