@@ -38,7 +38,8 @@ My current research interest mainly lies in LLMs and large foundational models, 
 
 **DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
 
-**<u>Bufang Yang</u>**, Siyang Jiang, Lilin Xu, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
+**<u>Bufang Yang</u>**, Siyang Jiang, Lilin Xu, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, 
+[Zhenyu Yan<sup>†</sup>](https://yanzhenyu.com/)
 
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
