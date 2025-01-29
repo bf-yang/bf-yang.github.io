@@ -36,14 +36,14 @@ My current research interest mainly lies in LLMs and large foundational models, 
 
 **DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
 
-[**<u>Bufang Yang</u>**](https://yanzhenyu.com/), 
-[Siyang Jiang](http://syjiang.com/), 
-[Lilin Xu](https://initxu.github.io/), 
+**<u>Bufang Yang</u>**, 
+Siyang Jiang, 
+Lilin Xu, 
 Kaiwei Liu, Hai Li, 
-[Guoliang Xing](https://staff.ie.cuhk.edu.hk/~glxing/), 
-[Hongkai Chen](https://www.ie.cuhk.edu.hk/faculty/chen-hongkai/), 
-[Xiaofan Jiang](http://fredjiang.com/), 
-[Zhenyu Yan<sup>†</sup>](https://yanzhenyu.com/)
+Guoliang Xing, 
+Hongkai Chen, 
+Xiaofan Jiang, 
+Zhenyu Yan<sup>†</sup>
 
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
@@ -55,20 +55,20 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
+**EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge**
 
 **<u>Bufang Yang</u>**, 
-Siyang Jiang, 
-Lilin Xu, 
-Kaiwei Liu, Hai Li, 
-Guoliang Xing], 
-Hongkai Chen], 
-Xiaofan Jiang], 
-Zhenyu Yan<sup>†</sup>]
+Lixing He, 
+Neiwen Ling, 
+Zhenyu Yan<sup>†</sup>, 
+Guoliang Xing, 
+Xian Shuai, 
+Xiaozhe Ren, 
+Xin Jiang
 
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT'24**)
+The 21th ACM Conference on Embedded Networked Sensor Systems, (**SenSys 2023**)
 
-[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
+[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3625687.3625793)]
 
 </div>
 </div>
