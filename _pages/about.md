@@ -23,10 +23,9 @@ My current research interest mainly lies in LLMs and large foundational models, 
 
 
 # 🔥 News
-- *2025.01*: &nbsp; One paper accepted to [SenSys 2025](https://iclr.cc/Conferences/2025).
-- *2024.09*: &nbsp; One paper accepted to [IMWUT 2024](https://iclr.cc/Conferences/2025).
-- *2023.12*: &nbsp; One paper accepted to [TIM 2023](https://iclr.cc/Conferences/2025).
-- *2023.09*: &nbsp; One paper accepted to [SenSys 2023](https://iclr.cc/Conferences/2025).
+- *2025.01*: &nbsp; Our paper TaskSense has been accepted to [SenSys 2025](https://sensys.acm.org/2025).
+- *2024.09*: &nbsp; Our paper DrHouse has been accepted to [IMWUT 2024]().
+- *2023.09*: &nbsp; Our paper EdgeFM has been accepted to [SenSys 2023](https://sensys.acm.org/2023).
 
 
 # 📝 Publications 
