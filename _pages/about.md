@@ -28,7 +28,7 @@ My current research interest mainly lies in LLMs and large foundational models, 
 - *2023.09*: &nbsp; Our paper EdgeFM has been accepted to [SenSys 2023](https://sensys.acm.org/2023).
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 †: corresponding author; *:equal contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.jpeg' alt="sym" width="90%"></div></div>
@@ -52,7 +52,7 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM.jpeg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM.jpeg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge**
@@ -69,6 +69,9 @@ Xin Jiang
 The 21th ACM Conference on Embedded Networked Sensor Systems, (**SenSys 2023**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3625687.3625793)]
+
+# 📝 Other Publications 
+
 
 </div>
 </div>
