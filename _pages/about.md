@@ -31,6 +31,29 @@ My current research interest mainly lies in LLMs and large foundational models, 
 # 📝 Selected Publications 
 
 †: corresponding author; *:equal contribution
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/SocialMind.jpeg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interaction**
+
+**<u>Bufang Yang</u>**, 
+Yunqi Guo, 
+Lilin Xu, 
+Zhenyu Yan<sup>†</sup>
+Hongkai Chen, 
+Guoliang Xing, 
+Xiaofan Jiang, 
+
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
+
+[[**Paper**](https://arxiv.org/pdf/2412.04036)]
+
+We introduce *SocialMind*, the first LLM-based proactive AR social assistive system that provides users with in-situ social assistance in live social interactions with other parties.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.jpeg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,10 +72,13 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
+We introduce *DrHouse*, an LLM-based diagnostic reasoning system that can leverage the sensor data on smart devices and the up-to-date expert knowledge for multi-turn diagnosis.
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM.jpeg' alt="sym" width="85%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM.jpeg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge**
@@ -70,11 +96,51 @@ The 21th ACM Conference on Embedded Networked Sensor Systems, (**SenSys 2023**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3625687.3625793)]
 
+We introduce *EdgeFM*, a novel edge-cloud collaborative system with foundation models that enable open-set learning, simultaneously achieving both generalizability and efficiency for IoT applications.
+
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/TaskSense.jpeg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TaskSense: A Translation-like Approach for Tasking Heterogeneous Sensor Systems with LLMs**
+
+Kaiwei Liu,
+**<u>Bufang Yang</u>**, 
+Lilin Xu,
+Yunqi Guo,
+Guoliang Xing, 
+Xian Shuai, 
+Xiaozhe Ren, 
+Xin Jiang,
+Zhenyu Yan<sup>†</sup> 
+
+The 23rd ACM Conference on Embedded Networked Sensor Systems, (**SenSys 2025**)
+
+[[**Paper**]()]
+
+We introduce *TaskSense*, a novel system that coordinates multiple sensor systems in response to users' complex queries.
+
+</div>
+</div>
 
 # 📝 Other Publications 
+VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments
+
+Bufang Yang, Lixing He, Kaiwei Liu, Zhenyu Yan. 
+
+IEEE International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things, (**FMSys 2024**).
+
+</div>
+</div>
+
+BrainZ-BP: A non-invasive Cuff-less Blood Pressure Estimation Approach Leveraging Brain Bio-impedance and Electrocardiogram
+
+Bufang Yang, Le Liu, Wenxuan Wu, Mengliang Zhou, Hongxing Liu, Xinbao Ning. 
+
+IEEE Transactions on Instrumentation and Measurement, (**TIM 2023**).
 
 
 </div>
