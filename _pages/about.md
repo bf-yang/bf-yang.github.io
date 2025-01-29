@@ -51,7 +51,7 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
 [[**Paper**](https://arxiv.org/pdf/2412.04036)]
 
-We introduce *SocialMind*, the first LLM-based proactive AR social assistive system that provides users with in-situ social assistance in live social interactions with other parties.
+We introduce *SocialMind*, an LLM-based proactive AR social assistive system that provides users with in-situ social assistance in live social interactions.
 
 </div>
 </div>
@@ -75,7 +75,7 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
-We introduce *DrHouse*, an LLM-based diagnostic reasoning system that can leverage the sensor data on smart devices and the up-to-date expert knowledge for multi-turn diagnosis.
+We introduce *DrHouse*, an LLM-based diagnostic reasoning system that can leverage the sensor data on smart devices and the up-to-date expert knowledge for reliable multi-turn diagnosis.
 
 </div>
 </div>
