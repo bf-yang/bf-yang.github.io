@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bufang Yang"
-description              : "PhD student @ AIoT Lab, CUHK. "
+description              : "PhD student @ AIoT Lab, CUHK"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bufang Yang"
-  avatar           : "images/bio-photo-V0-jpeg"
+  avatar           : "images/bio-photo-V0.jpeg"
   bio              : "The Chinese University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
