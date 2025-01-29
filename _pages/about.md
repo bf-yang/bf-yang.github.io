@@ -36,7 +36,7 @@ My current research interest mainly lies in LLMs and large foundational models, 
 # 📝 Selected Publications 
 
 †: corresponding author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/SocialMind.jpeg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/SocialMind.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interaction**
