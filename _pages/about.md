@@ -21,6 +21,7 @@ Hi! I am a third-year Ph.D. student of [AIoT Lab](https://aiot.ie.cuhk.edu.hk/),
 
 My current research interest mainly lies in LLMs and large foundational models, and their applications in mobile systems such as AR/VR, smart homes, and health systems.
 
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - *2025.01*: &nbsp; Our paper TaskSense has been accepted to [SenSys 2025](https://sensys.acm.org/2025).
@@ -31,6 +32,7 @@ My current research interest mainly lies in LLMs and large foundational models, 
 - *2023.09*: &nbsp; Our paper EdgeFM has been accepted to [SenSys 2023](https://sensys.acm.org/2023).
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 
 †: corresponding author; *:equal contribution
@@ -160,6 +162,7 @@ We introduce *TaskSense*, a novel system that coordinates multiple sensor system
 
   *The 30th Annual International Conference On Mobile Computing And Networking, (**MobiCom 2024**)*
 
+<span class='anchor' id='selected-awards'></span>
 # Selected Awards
 - Reaching Out Award, The Chinese University of Hong Kong, 2024
 - Postgraduate Scholarship, The Chinese University of Hong Kong, 2022-2026
