@@ -24,7 +24,10 @@ My current research interest mainly lies in LLMs and large foundational models, 
 
 # 🔥 News
 - *2025.01*: &nbsp; Our paper TaskSense has been accepted to [SenSys 2025](https://sensys.acm.org/2025).
+- *2024.11*: &nbsp; Our paper Soar has won Best Artifact Award Runner-up at [MobiCom 2024](https://www.sigmobile.org/mobicom/2024/).
 - *2024.09*: &nbsp; Our paper DrHouse has been accepted to [IMWUT 2024]().
+- *2024.03*: &nbsp; Our paper VIAssist has been accepted to [FMSys 2024](https://fmsys24.github.io/).
+- *2023.11*: &nbsp; Our paper Soar is conditionally accepted by [MobiCom 2024](https://www.sigmobile.org/mobicom/2024/).
 - *2023.09*: &nbsp; Our paper EdgeFM has been accepted to [SenSys 2023](https://sensys.acm.org/2023).
 
 
@@ -102,7 +105,7 @@ We introduce *EdgeFM*, a novel edge-cloud collaborative system with foundation m
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/TaskSense.jpeg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2025</div><img src='images/TaskSense.jpeg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TaskSense: A Translation-like Approach for Tasking Heterogeneous Sensor Systems with LLMs**
@@ -126,23 +129,18 @@ We introduce *TaskSense*, a novel system that coordinates multiple sensor system
 </div>
 </div>
 
-# 📝 Other Publications 
-VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments
+# 📝 Other Publications
+- [**FMSys 2024**] **VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments**
 
-Bufang Yang, Lixing He, Kaiwei Liu, Zhenyu Yan. 
+  Bufang Yang, Lixing He, Kaiwei Liu, Zhenyu Yan.
 
-IEEE International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things, (**FMSys 2024**).
-
-</div>
-</div>
-
-BrainZ-BP: A non-invasive Cuff-less Blood Pressure Estimation Approach Leveraging Brain Bio-impedance and Electrocardiogram
-
-Bufang Yang, Le Liu, Wenxuan Wu, Mengliang Zhou, Hongxing Liu, Xinbao Ning. 
-
-IEEE Transactions on Instrumentation and Measurement, (**TIM 2023**).
+  IEEE International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things, (**FMSys 2024**).
 
 
-</div>
-</div>
+- [**TIM 2023**] **BrainZ-BP: A non-invasive Cuff-less Blood Pressure Estimation Approach Leveraging Brain Bio-impedance and Electrocardiogram**
+
+  Bufang Yang, Le Liu, Wenxuan Wu, Mengliang Zhou, Hongxing Liu, Xinbao Ning. 
+
+  IEEE Transactions on Instrumentation and Measurement, (**TIM 2023**).
+
 
