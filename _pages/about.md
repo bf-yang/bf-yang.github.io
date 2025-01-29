@@ -31,10 +31,8 @@ My current research interest mainly lies in LLMs and large foundational models, 
 # 📝 Publications 
 
 †: corresponding author; *:equal contribution
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.jpeg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 **DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
 
@@ -48,6 +46,27 @@ Kaiwei Liu, Hai Li,
 [Zhenyu Yan<sup>†</sup>](https://yanzhenyu.com/)
 
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
+
+[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
+
+**<u>Bufang Yang</u>**, 
+Siyang Jiang, 
+Lilin Xu, 
+Kaiwei Liu, Hai Li, 
+Guoliang Xing], 
+Hongkai Chen], 
+Xiaofan Jiang], 
+Zhenyu Yan<sup>†</sup>]
+
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT'24**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
