@@ -158,4 +158,9 @@ We introduce *TaskSense*, a novel system that coordinates multiple sensor system
   Shuyao Shi, Neiwen Ling, Zhehao Jiang, Xuan Huang, Yuze He, Xiaoguang Zhao, **<u>Bufang Yang</u>**, Chen Bian, Jingfei Xia, Zhenyu Yan, Raymond Yeung, Guoliang Xing. Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving.
   *The 30th Annual International Conference On Mobile Computing And Networking, (**MobiCom 2024**)*
 
+# Selected Awards
+- Reaching Out Award, The Chinese University of Hong Kong, 2024
+- Postgraduate Scholarship, The Chinese University of Hong Kong, 2022-2026
+- National Scholarship for Postgraduates (two times), Ministry of Education of China, 2021 & 2020
+- Outstanding Graduate of Nanjing University, 2022
 
