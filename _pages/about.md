@@ -52,7 +52,7 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/EdgeFM.jpeg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge**
