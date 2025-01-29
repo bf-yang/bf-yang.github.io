@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am a third-year Ph.D. student of [AIoT Lab](https://aiot.ie.cuhk.edu.hk/), The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), supervised by Prof. [Guoliang Xing](https://staff.ie.cuhk.edu.hk/~glxing/) and Prof. [Zhenyu Yan](https://yanzhenyu.com/). Prior to this, I received my Bachelor’s degree and Master's degree from Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)) and Nanjing University ([NJU](https://www.nju.edu.cn/en/)), respectively.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interest mainly lies in LLMs and large foundational models, and their applications in mobile systems such as AR/VR, smart homes, and health systems.
 
 
 # 🔥 News
@@ -27,6 +27,27 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+
+†: corresponding author; *:equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/paper/IDArb.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations**
+
+**Zhibing Li**,
+[Tong Wu<sup>†</sup>](https://wutong16.github.io/),
+[Jing Tan](https://sparkstj.github.io/),
+[Mengchen Zhang](https://kszpxxzmc.github.io/),
+[Jiaqi Wang](https://myownskyw7.github.io/),
+[Dahua Lin<sup>†</sup>](https://dahua.site/)
+
+[**[Paper]**](https://arxiv.org/abs/2412.12083)&nbsp;
+[**[Project]**](https://lizb6626.github.io/IDArb/)&nbsp;
+[**[Code]**](https://github.com/Lizb6626/IDArb/)&nbsp;
+[**[Data]**](
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
