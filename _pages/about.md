@@ -130,17 +130,32 @@ We introduce *TaskSense*, a novel system that coordinates multiple sensor system
 </div>
 
 # 📝 Other Publications
-- [**FMSys 2024**] **VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments**
+- **VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments**
 
-  Bufang Yang, Lixing He, Kaiwei Liu, Zhenyu Yan.
+  **<u>Bufang Yang</u>**, Lixing He, Kaiwei Liu, Zhenyu Yan.
 
-  IEEE International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things, (**FMSys 2024**).
+  *IEEE International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things, (**FMSys 2024**)*.
 
+- **BrainZ-BP: A non-invasive Cuff-less Blood Pressure Estimation Approach Leveraging Brain Bio-impedance and Electrocardiogram**
 
-- [**TIM 2023**] **BrainZ-BP: A non-invasive Cuff-less Blood Pressure Estimation Approach Leveraging Brain Bio-impedance and Electrocardiogram**
+  **<u>Bufang Yang</u>**, Le Liu, Wenxuan Wu, Mengliang Zhou, Hongxing Liu, Xinbao Ning. 
 
-  Bufang Yang, Le Liu, Wenxuan Wu, Mengliang Zhou, Hongxing Liu, Xinbao Ning. 
+  *IEEE Transactions on Instrumentation and Measurement, (**TIM 2023**)*.
 
-  IEEE Transactions on Instrumentation and Measurement, (**TIM 2023**).
+- **A Novel Sleep Stage Contextual Refinement Algorithm Leveraging Conditional Random Fields**
+
+  **<u>Bufang Yang</u>**, Wenxuan Wu, Yitian Liu, Hongxing Liu. 
+
+  *IEEE Transactions on Instrumentation and Measurement, (**TIM 2023**)*.
+
+- **A single-channel EEG based automatic sleep stage classification method leveraging deep one-dimensional convolutional neural network and hidden Markov model**
+
+  **<u>Bufang Yang</u>**, Xilin Zhu, Yitian Liu, Hongxing Liu. 
+
+  *Biomedical Signal Processing and Control, (**BSPC 2021**)*.
+  
+- **Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving**
+  Shuyao Shi, Neiwen Ling, Zhehao Jiang, Xuan Huang, Yuze He, Xiaoguang Zhao, **<u>Bufang Yang</u>**, Chen Bian, Jingfei Xia, Zhenyu Yan, Raymond Yeung, Guoliang Xing. Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving.
+  *The 30th Annual International Conference On Mobile Computing And Networking, (**MobiCom 2024**)*
 
 
