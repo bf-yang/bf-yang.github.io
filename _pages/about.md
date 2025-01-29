@@ -30,38 +30,17 @@ My current research interest mainly lies in LLMs and large foundational models, 
 
 †: corresponding author; *:equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/paper/IDArb.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/paper/DrHouse.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-**IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations**
+**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
 
-**Zhibing Li**,
-[Tong Wu<sup>†</sup>](https://wutong16.github.io/),
-[Jing Tan](https://sparkstj.github.io/),
-[Mengchen Zhang](https://kszpxxzmc.github.io/),
-[Jiaqi Wang](https://myownskyw7.github.io/),
-[Dahua Lin<sup>†</sup>](https://dahua.site/)
+**<u>Bufang Yang</u>**, Siyang Jiang, Lilin Xu, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
 
-[**[Paper]**](https://arxiv.org/abs/2412.12083)&nbsp;
-[**[Project]**](https://lizb6626.github.io/IDArb/)&nbsp;
-[**[Code]**](https://github.com/Lizb6626/IDArb/)&nbsp;
-[**[Data]**](
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
