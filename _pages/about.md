@@ -146,7 +146,7 @@ We introduce *TaskSense*, a novel system that coordinates multiple sensor system
 
   **<u>Bufang Yang</u>**, Wenxuan Wu, Yitian Liu, Hongxing Liu. 
 
-  *IEEE Transactions on Instrumentation and Measurement, (**TIM 2023**)*.
+  *IEEE Transactions on Instrumentation and Measurement, (**TIM 2022**)*.
 
 - **A single-channel EEG based automatic sleep stage classification method leveraging deep one-dimensional convolutional neural network and hidden Markov model**
 
@@ -155,12 +155,22 @@ We introduce *TaskSense*, a novel system that coordinates multiple sensor system
   *Biomedical Signal Processing and Control, (**BSPC 2021**)*.
   
 - **Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving**
+
   Shuyao Shi, Neiwen Ling, Zhehao Jiang, Xuan Huang, Yuze He, Xiaoguang Zhao, **<u>Bufang Yang</u>**, Chen Bian, Jingfei Xia, Zhenyu Yan, Raymond Yeung, Guoliang Xing. Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving.
+
   *The 30th Annual International Conference On Mobile Computing And Networking, (**MobiCom 2024**)*
 
 # Selected Awards
 - Reaching Out Award, The Chinese University of Hong Kong, 2024
 - Postgraduate Scholarship, The Chinese University of Hong Kong, 2022-2026
-- National Scholarship for Postgraduates (two times), Ministry of Education of China, 2021 & 2020
+- National Scholarship for Postgraduates, Ministry of Education of China, 2021 and 2020
 - Outstanding Graduate of Nanjing University, 2022
+
+# Teaching Assistant
+- IEMS5726A/IERG4320: Data Science in Practice, 2023 Fall, 2025 Spring, CUHK
+- IEMS5727B: Internet of Things and Smart Applications, 2025 Spring, CUHK
+- IERG3840: Web Application Development Project, 2022 Spring, 2023 Spring, CUHK
+- IERG3080: Information and Software Engineering Practice, 2022 Fall, CUHK
+
+
 
