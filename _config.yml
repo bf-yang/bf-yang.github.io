@@ -29,7 +29,6 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=q_KcYaQAAAAJ"
   email            : "bfyang@link.cuhk.edu.hk"
-  researchgate     : "https://www.researchgate.net/profile/Bufang-Yang-2?ev=hdr_xprf&_sg=2hmyKQHGSoWIVKxCIEFZUtRGzX_L512WSAwyne8g8Zw9xrfahttL3WJY6IgdfaFo1eVJhHdDYhJ-D-XfJJ5jVLD9" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -46,6 +45,7 @@ author:
   LinkedIn         : "Bufang Yang" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-0032-2539"
+  researchgate     : "https://www.researchgate.net/profile/Bufang-Yang-2?ev=hdr_xprf&_sg=2hmyKQHGSoWIVKxCIEFZUtRGzX_L512WSAwyne8g8Zw9xrfahttL3WJY6IgdfaFo1eVJhHdDYhJ-D-XfJJ5jVLD9" # e.g., "https://www.researchgate.net/profile/yourprofile"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
