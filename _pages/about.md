@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am a third-year Ph.D. student of [AIoT Lab](https://aiot.ie.cuhk.edu.hk/), The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), supervised by Prof. [Guoliang Xing](https://staff.ie.cuhk.edu.hk/~glxing/) and Prof. [Zhenyu Yan](https://yanzhenyu.com/). Prior to this, I received my Bachelor’s degree and Master's degree from Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)) and Nanjing University ([NJU](https://www.nju.edu.cn/en/)), respectively.
 
-My current research interest mainly lies in LLMs and large foundational models, and their applications in mobile systems such as AR/VR, smart homes, and health systems.
+My current research interest mainly lies in LLMs and large foundational models, and their applications in mobile systems such as AR/VR, health, and assistive systems.
 
 <span class='anchor' id='news'></span>
 
