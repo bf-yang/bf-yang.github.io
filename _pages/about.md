@@ -48,7 +48,7 @@ Hongkai Chen,
 Guoliang Xing, 
 Xiaofan Jiang, 
 
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT 2025**)
 
 [[**Paper**](https://arxiv.org/pdf/2412.04036)]
 
