@@ -24,9 +24,10 @@ My current research interest mainly lies in LLMs and large foundational models, 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2025.01*: &nbsp; Our paper TaskSense has been accepted to [SenSys 2025](https://sensys.acm.org/2025).
+- *2025.01*: &nbsp; Our paper SocialMind has been accepted to [IMWUT 2025](https://www.ubicomp.org/ubicomp-iswc-2025/).
+- *2025.01*: &nbsp; Our paper TaskSense is conditionally accepted to [SenSys 2025](https://sensys.acm.org/2025).
 - *2024.11*: &nbsp; Our paper Soar has won Best Artifact Award Runner-up at [MobiCom 2024](https://www.sigmobile.org/mobicom/2024/).
-- *2024.09*: &nbsp; Our paper DrHouse has been accepted to [IMWUT 2024]().
+- *2024.09*: &nbsp; Our paper DrHouse has been accepted to [IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2025/).
 - *2024.03*: &nbsp; Our paper VIAssist has been accepted to [FMSys 2024](https://fmsys24.github.io/).
 - *2023.11*: &nbsp; Our paper Soar is conditionally accepted by [MobiCom 2024](https://www.sigmobile.org/mobicom/2024/).
 - *2023.09*: &nbsp; Our paper EdgeFM has been accepted to [SenSys 2023](https://sensys.acm.org/2023).
