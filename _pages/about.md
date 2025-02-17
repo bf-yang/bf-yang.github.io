@@ -73,7 +73,7 @@ Hongkai Chen,
 Xiaofan Jiang, 
 Zhenyu Yan<sup>†</sup>
 
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp 2025**)
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp 2025**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
