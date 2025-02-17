@@ -36,7 +36,7 @@ My current research interest mainly lies in LLMs and large foundational models, 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/SocialMind.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT/UbiComp 2025</div><img src='images/SocialMind.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interaction**
@@ -49,7 +49,7 @@ Hongkai Chen,
 Guoliang Xing, 
 Xiaofan Jiang, 
 
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT 2025**)
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp 2025**)
 
 [[**Paper**](https://arxiv.org/pdf/2412.04036)]
 
@@ -59,7 +59,7 @@ We introduce *SocialMind*, an LLM-based proactive AR social assistive system tha
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.jpeg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT/UbiComp 2025</div><img src='images/DrHouse.jpeg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
@@ -73,7 +73,7 @@ Hongkai Chen,
 Xiaofan Jiang, 
 Zhenyu Yan<sup>†</sup>
 
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT 2024**)
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp 2025**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
