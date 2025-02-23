@@ -47,7 +47,7 @@ Lilin Xu,
 Zhenyu Yan<sup>†</sup>
 Hongkai Chen, 
 Guoliang Xing, 
-Xiaofan Jiang, 
+Xiaofan Jiang
 
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp 2025**)
 
