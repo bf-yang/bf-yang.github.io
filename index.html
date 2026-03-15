@@ -258,7 +258,9 @@
 
     <!-- 荣誉奖项 -->
     <section class="section" id="honors">
-      <h2>Selected Honors <span class="more">[More]</span></h2>
+      <h2>Selected Honors</h2>
+      <!-- <h2>Selected Honors <span class="more">[More]</span></h2> -->
+
       <ul class="honors-list">
         <li><span class="date">[2024]</span> Best Artifact Award Runner-Up, ACM MobiCom </li>
         <li><span class="date">[2023]</span> Reaching Out Award, The Chinese University of Hong Kong</li>
@@ -269,7 +271,8 @@
 
     <!-- 学术服务 -->
     <section class="section" id="services">
-      <h2>Professional Services <span class="more">[More]</span></h2>
+      <h2>Professional Services</h2>
+      <!-- <h2>Professional Services <span class="more">[More]</span></h2> -->
       <h3>Technical Program Committee (TPC)</h3>
       <p>AutoSys Workshop @ MobiSys 2026</p>
       <h3>Journal Reviewer</h3>
@@ -279,7 +282,8 @@
 
     <!-- Teaching Experience -->
     <section class="section" id="Teaching Experience">
-      <h2>Teaching Experience <span class="more">[More]</span></h2>
+      <h2>Teaching Experience</h2>
+      <!-- <h2>Teaching Experience <span class="more">[More]</span></h2> -->
       <h3>Teaching Assistant</h3>
       <p>COMP3270: Computer Networks (CUHK, Fall 2024)</p>
       <p>COMP3270: Computer Networks (CUHK, Fall 2024)</p>
@@ -304,13 +308,15 @@
       <p>GitHub: <a href="https://github.com/duducheng" target="_blank">duducheng</a> · MedMNIST: <a href="https://medmnist.com" target="_blank">medmnist.com</a></p>
     </section> -->
 
-    <!-- 访客地球：ClustrMaps 真实访客统计 -->
-    <section class="section visitor-globe-section">
-      <h2>Visitors</h2>
+    <!-- 访客地球：ClustrMaps 真实访客统计（需先加载 jQuery） -->
+    <div class="visitor-globe-section">
       <div class="globe-container">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1QapMTSWvdzSxW35YDIq8E0AqA9AcpWu3u2SaDtnzlM"></script>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=1QapMTSWvdzSxW35YDIq8E0AqA9AcpWu3u2SaDtnzlM"></script>
       </div>
-    </section>
+      <p class="visitor-count">Total pageviews: <span id="busuanzi_value_site_pv">-</span></p>
+      <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    </div>
 
     <!-- 页脚 -->
     <footer class="footer">
