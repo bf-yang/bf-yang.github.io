@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bufang Yang - Homepage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- 置顶导航栏 -->
+  <nav class="top-nav">
+    <div class="nav-links">
+      <a href="#home">Home</a>
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#honors">Honors</a>
+      <a href="#services">Services</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <!-- 头部 -->
+    <header class="header" id="home">
+      <div class="header-left">
+        <div class="avatar-placeholder">
+          <!-- 替换 src 为你的头像图片路径 -->
+          <img src="figs/photo.jpeg" alt="Photo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+          <div class="avatar-placeholder-inner">Photo</div>
+        </div>
+      </div>
+      <div class="header-right">
+        <h1 class="name">Bufang Yang</h1>
+        <div class="header-divider"></div>
+        <p class="affiliation">The Chinese University of Hong Kong · AIoT Lab</p>
+        <p class="email">Email: <a href="mailto: bfyang [at] link [dot] cuhk [dot] edu [dot] hk">bfyang [at] link [dot] cuhk [dot] edu [dot] hk</a></p>
+        <p class="cv-link">Here is my <a href="cv/cv.pdf" target="_blank">Curriculum Vitae</a>.</p>
+        <div class="social-icons">
+          <a href="https://scholar.google.com/citations?user=q_KcYaQAAAAJ&hl=zh-CN&authuser=1&oi=ao" target="_blank" title="Google Scholar" class="social-icon social-icon-scholar"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg></a>
+          <a href="https://www.linkedin.com/feed/" target="_blank" title="LinkedIn" class="social-icon social-icon-linkedin"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
+          <a href="https://github.com/bf-yang" target="_blank" title="GitHub" class="social-icon social-icon-github"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg></a>
+          <a href="https://orcid.org/0000-0003-0032-2539" target="_blank" title="ORCID" class="social-icon social-icon-orcid"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/></svg></a>
+          <a href="https://www.researchgate.net/profile/YOUR_USERNAME" target="_blank" title="ResearchGate" class="social-icon social-icon-researchgate"><img src="figs/researchgate_icon.svg.png" alt="ResearchGate"></a>
+        </div>
+      </div>
+    </header>
+
+    <!-- 个人简介 -->
+    <section class="section">
+      <h2>Biography</h2>
+      <p class="bio">
+
+        Bufang Yang is a fourth-year Ph.D. student of <a href="https://aiot.ie.cuhk.edu.hk/" target="_blank">AIoT Lab</a>, The Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/english/index.html" target="_blank">CUHK</a>), supervised by Prof. <a href="https://staff.ie.cuhk.edu.hk/~glxing/" target="_blank">Guoliang Xing</a> and Prof. <a href="https://yanzhenyu.com/" target="_blank">Zhenyu Yan</a>. Prior to this, I received my Bachelor's degree and Master's degree from Northwestern Polytechnical University (<a href="https://en.nwpu.edu.cn/" target="_blank">NWPU</a>) and Nanjing University (<a href="https://www.nju.edu.cn/en/" target="_blank">NJU</a>), respectively.
+        My current research interest mainly lies in proactive LLM agent systems, human-computer interaction, and mobile computing.
+        
+        I expect to graduate in 2026 and am currently seeking opportunities in both industry and academia.
+        
+        
+      </p>
+    </section>
+
+    <!-- 近期新闻 -->
+    <section class="section" id="news">
+      <h2>Recent News <span class="more" id="news-more-btn" role="button" tabindex="0">[More]</span></h2>
+      <ul class="news-list" id="news-list">
+        <li><span class="date">[Feb 2026]</span> Our paper DeepEdgeFM has been accepted to TMC 2026.</li>
+        <li><span class="date">[Sep 2025]</span> Our paper ContextAgent has been accepted to NeurIPS 2025.</li>
+        <li><span class="date">[Jan 2025]</span> Our paper SocialMind has been accepted to IMWUT 2025.</li>
+        <li><span class="date">[Jan 2025]</span> Our paper TaskSense is conditionally accepted to SenSys 2025.</li>
+        <li><span class="date">[Nov 2024]</span> Our paper Soar has won Best Artifact Award Runner-up at MobiCom 2024.</li>
+        <li><span class="date">[Sep 2024]</span> Our paper DrHouse has been accepted to IMWUT 2024.</li>
+        <li><span class="date">[Mar 2024]</span> Our paper VIAssist has been accepted to FMSys 2024.</li>
+        <li><span class="date">[Nov 2023]</span> Our paper Soar is conditionally accepted by MobiCom 2024.</li>
+        <li><span class="date">[Sep 2023]</span> Our paper EdgeFM has been accepted to SenSys 2023.</li>
+
+    </section>
+
+    <!-- 代表性论文 -->
+    <section class="section" id="publications">
+      <h2>Selected Publications <span class="more">[More]</span></h2>
+      <p class="note">Full publication list on <a href="https://scholar.google.com/citations?user=q_KcYaQAAAAJ&hl=zh-CN&authuser=1&oi=ao" target="_blank">Google Scholar</a>. * indicates equal contribution. † indicates corresponding authorship.</p>
+      <ul class="pub-list">
+        <li class="pub-item">
+          <div class="pub-image-wrapper">
+            <div class="pub-image">
+              <img src="papers/ContextAgent.png" alt="ContextAgent" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+              <div class="pub-image-placeholder">Fig</div>
+            </div>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title">ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions</div>
+            <div class="pub-authors"><strong><u>Bufang Yang</strong></u>*, Lilin Xu*, Liekang Zeng, Kaiwei Liu, Siyang Jiang, Wenrui Lu, Hongkai Chen, Xiaofan Jiang, Guoliang Xing, Zhenyu Yan†.</div>
+            <div class="pub-venue">The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS 2025</strong>)</div>
+            <span class="pub-links">[<a href="https://arxiv.org/abs/2505.14668" target="_blank">PDF</a>] [<a href="#" target="_blank">CODE</a>] [<a href="#" target="_blank">POSTER</a>] [<a href="#" target="_blank">SLIDES</a>] [<a href="#" target="_blank">ABS</a>] [<a href="#" target="_blank">BIB</a>]</span>
+            <p class="pub-description">--- Harness extensive sensory contexts surrounding humans to enhance the proactivity of LLM agents.</p>
+          </div>
+        </li>
+        
+        <li class="pub-item">
+          <div class="pub-image-wrapper">
+            <div class="pub-image">
+              <img src="papers/SocialMind.png" alt="SocialMind" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+              <div class="pub-image-placeholder">Fig</div>
+            </div>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title">SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interaction</div>
+            <div class="pub-authors"><strong><u>Bufang Yang</strong></u>*, Yunqi Guo*, Lilin Xu*, Zhenyu Yan†, Hongkai Chen, Guoliang Xing, Xiaofan Jiang.</div>
+            <div class="pub-venue">Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>IMWUT/UbiComp 2025</strong>)</div>
+            <span class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3712286" target="_blank">PDF</a>] [<a href="#" target="_blank">Code</a>] [<a href="#" target="_blank">Poster</a>] [<a href="#" target="_blank">Slides</a>] [<a href="#" target="_blank">ABS</a>] [<a href="#" target="_blank">BIB</a>]</span>
+            <p class="pub-description">--- An LLM-based proactive AR social assistive system that provides users with in-situ social assistance.</p>
+          </div>
+        </li>
+        <li class="pub-item">
+          <div class="pub-image-wrapper">
+            <div class="pub-image">
+              <img src="papers/DrHouse.jpeg" alt="DrHouse" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+              <div class="pub-image-placeholder">Fig</div>
+            </div>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title">DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge</div>
+            <div class="pub-authors"><strong><u>Bufang Yang</strong></u>*, Siyang Jiang*, 
+              Lilin Xu, 
+              Kaiwei Liu, Hai Li, 
+              Guoliang Xing, 
+              Hongkai Chen, 
+              Xiaofan Jiang, 
+              Zhenyu Yan†.</div>
+            <div class="pub-venue">Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>IMWUT/UbiComp 2024</strong>)</div>
+            <span class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3699765" target="_blank">PDF</a>] [<a href="#" target="_blank">Code</a>] [<a href="#" target="_blank">Slides</a>] [<a href="#" target="_blank">ABS</a>] [<a href="#" target="_blank">BIB</a>]</span>
+            <p class="pub-description">--- Integrate sensor data and up-to-date expert knowledge for LLM-based multi-turn diagnostic reasoning.</p>
+          </div>
+        </li>
+        <li class="pub-item">
+          <div class="pub-image-wrapper">
+            <div class="pub-image">
+              <img src="papers/EdgeFM.jpeg" alt="EdgeFM" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+              <div class="pub-image-placeholder">Fig</div>
+            </div>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title">EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge</div>
+            <div class="pub-authors"><strong><u>Bufang Yang</strong></u>, Lixing He, 
+              Neiwen Ling, 
+              Zhenyu Yan, 
+              Guoliang Xing, 
+              Xian Shuai, 
+              Xiaozhe Ren, 
+              Xin Jiang.</div>
+            <div class="pub-venue">The 21th ACM Conference on Embedded Networked Sensor Systems, (<strong>SenSys 2023</strong>)
+            </div>
+            <span class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3625687.3625793" target="_blank">PDF</a>] [<a href="#" target="_blank">Code</a>] [<a href="#" target="_blank">Slides</a>] [<a href="#" target="_blank">ABS</a>] [<a href="#" target="_blank">BIB</a>]</span>
+            <p class="pub-description">--- An edge-cloud collaborative system for foundation models that enable open-set learning on the edge.</p>
+          </div>
+        </li>
+        <li class="pub-item">
+          <div class="pub-image-wrapper">
+            <div class="pub-image">
+              <img src="papers/DeepEdgeFM.jpeg" alt="DeepEdgeFM" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+              <div class="pub-image-placeholder">Fig</div>
+            </div>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title">An Efficient Edge-Cloud Collaboration System with Foundational Models for Open-Set IoT
+              Applications</div>
+            <div class="pub-authors"><strong><u>Bufang Yang</strong></u>, Wenrui Lu, Lixing He, Neiwen Ling, Zhenyu Yan, Guoliang Xing, Xian Shuai, Xiaozhe Ren, Xin Jiang.</div>
+            <div class="pub-venue">IEEE Transactions on Mobile Computing (<strong>TMC 2026</strong>)</div>
+            <span class="pub-links">[<a href="https://ieeexplore.ieee.org/document/11415373" target="_blank">PDF</a>] [<a href="#" target="_blank">Code</a>] [<a href="#" target="_blank">ABS</a>] [<a href="#" target="_blank">BIB</a>]</span>
+            <p class="pub-description">--- Continuous cloud–edge interaction enables generalizable and efficient IoT applications with foundation models.</p>
+          </div>
+        </li>
+        <li class="pub-item">
+          <div class="pub-image-wrapper">
+            <div class="pub-image">
+              <img src="papers/TaskSense.jpeg" alt="TaskSense" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+              <div class="pub-image-placeholder">Fig</div>
+            </div>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title">TaskSense: A Translation-like Approach for Tasking Heterogeneous Sensor Systems with LLMs</div>
+            <div class="pub-authors">Kaiwei Liu, <u><strong>Bufang Yang</strong></u>, Lilin Xu,
+              Yunqi Guo,
+              Guoliang Xing, 
+              Xian Shuai, 
+              Xiaozhe Ren, 
+              Xin Jiang,
+              Zhenyu Yan.</div>
+            <div class="pub-venue">The 23rd ACM Conference on Embedded Networked Sensor Systems (<strong>SenSys 2025</strong>)</div>
+            <span class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3715014.3722070" target="_blank">PDF</a>] [<a href="#" target="_blank">Code</a>] [<a href="#" target="_blank">Slides</a>] [<a href="#" target="_blank">ABS</a>] [<a href="#" target="_blank">BIB</a>]</span>
+            <p class="pub-description">--- A novel system that coordinates multiple sensor systems in response to users' complex queries.</p>
+          </div>
+        </li>
+      </ul>
+
+      <h3 class="other-pub-title">Other Publications</h3>
+      <ul class="other-pub-list">
+        <li class="other-pub-item">
+          <div class="pub-title">VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments</div>
+          <div class="pub-authors"><strong><u>Bufang Yang</u></strong>, Lixing He, Kaiwei Liu, Zhenyu Yan.</div>
+          <div class="pub-venue">IEEE International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things, (<strong>FMSys 2024</strong>).</div>
+        </li>
+        <li class="other-pub-item">
+          <div class="pub-title">BrainZ-BP: A non-invasive Cuff-less Blood Pressure Estimation Approach Leveraging Brain Bio-impedance and Electrocardiogram</div>
+          <div class="pub-authors"><strong><u>Bufang Yang</u></strong>, Le Liu, Wenxuan Wu, Mengliang Zhou, Hongxing Liu, Xinbao Ning.</div>
+          <div class="pub-venue">IEEE Transactions on Instrumentation and Measurement, (<strong>TIM 2023</strong>).</div>
+        </li>
+        <li class="other-pub-item">
+          <div class="pub-title">A Novel Sleep Stage Contextual Refinement Algorithm Leveraging Conditional Random Fields</div>
+          <div class="pub-authors"><strong><u>Bufang Yang</u></strong>, Wenxuan Wu, Yitian Liu, Hongxing Liu.</div>
+          <div class="pub-venue">IEEE Transactions on Instrumentation and Measurement, (<strong>TIM 2022</strong>).</div>
+        </li>
+        <li class="other-pub-item">
+          <div class="pub-title">A single-channel EEG based automatic sleep stage classification method leveraging deep one-dimensional convolutional neural network and hidden Markov model</div>
+          <div class="pub-authors"><strong><u>Bufang Yang</u></strong>, Xilin Zhu, Yitian Liu, Hongxing Liu.</div>
+          <div class="pub-venue">Biomedical Signal Processing and Control, (<strong>BSPC 2021</strong>).</div>
+        </li>
+        <li class="other-pub-item">
+          <div class="pub-title">A Large-Scale Multimodal Dataset and Benchmarks for Human Activity Scene Understanding and Reasoning</div>
+          <div class="pub-authors">Siyang Jiang, Mu Yuan, Xiang Ji, <strong><u>Bufang Yang</u></strong>, Zeyu Liu, Lilin Xu, Yang Li, Yuting He, Liran Dong, Wei Gao, Hongkai Chen, Zhenyu Yan, Xiaofan Jiang, Guoliang Xing.</div>
+          <div class="pub-venue">The 24th ACM International Conference on Mobile Systems, Applications, and Services, ACM (<strong>MobiSys 2026</strong>).</div>
+        </li>
+        <li class="other-pub-item">
+          <div class="pub-title">SCX: Stateless KV-Cache Encoding for Cloud-Scale Confidential Transformer Serving</div>
+          <div class="pub-authors">Mu Yuan, Lan Zhang, Liekang Zeng, Siyang Jiang, <strong><u>Bufang Yang</u></strong>, Di Duan, Guoliang Xing.</div>
+          <div class="pub-venue">ACM SIGCOMM (<strong>SIGCOMM 2025</strong>).</div>
+        </li>
+        <li class="other-pub-item">
+          <div class="pub-title">Myo-Trainer: A Muscle-Aware Motion Analysis and Feedback System for In-Home Resistance Training</div>
+          <div class="pub-authors">Yuting He, Xinyan Wang, Mu Yuan, <strong><u>Bufang Yang</u></strong>, Siyang Jiang, Yihua Huang, Doris S.F. Yu, Guoliang Xing, Hongkai Chen.</div>
+          <div class="pub-venue">The 31st Annual International Conference On Mobile Computing And Networking, ACM (<strong>MobiCom 2025</strong>).</div>
+        </li>
+        <li class="other-pub-item">
+          <div class="pub-title">Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving</div>
+          <div class="pub-authors">Shuyao Shi, Neiwen Ling, Zhehao Jiang, Xuan Huang, Yuze He, Xiaoguang Zhao, <strong><u>Bufang Yang</u></strong>, Chen Bian, Jingfei Xia, Zhenyu Yan, Raymond Yeung, Guoliang Xing.</div>
+          <div class="pub-venue">The 30th Annual International Conference On Mobile Computing And Networking, (<strong>MobiCom 2024</strong>).</div>
+        </li>
+      </ul>
+    </section>
+
+    <!-- 预印本 -->
+    <!-- <section class="section">
+      <h2>Selected Preprints</h2>
+      <ul class="pub-list">
+        <li class="pub-item">
+          <div class="pub-image">
+            <img src="papers/medmnist-arxiv.jpg" alt="MedMNIST" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+            <div class="pub-image-placeholder">Fig</div>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title">MedMNIST Classification Decathlon</div>
+            <div class="pub-authors">Jiancheng Yang et al.</div>
+            <div class="pub-venue">arXiv:2010.14925</div>
+            <span class="pub-links">[PDF] [Slides] [ABS] [BIB]</span>
+          </div>
+        </li>
+      </ul>
+    </section> -->
+
+    <!-- 荣誉奖项 -->
+    <section class="section" id="honors">
+      <h2>Selected Honors <span class="more">[More]</span></h2>
+      <ul class="honors-list">
+        <li><span class="date">[2024]</span> Best Artifact Award Runner-Up, ACM MobiCom </li>
+        <li><span class="date">[2023]</span> Reaching Out Award, The Chinese University of Hong Kong</li>
+        <li><span class="date">[2022]</span> Postgraduate Scholarship, The Chinese University of Hong Kong</li>
+        <li><span class="date">[2021, 2020]</span> National Scholarship, Ministry of Education of China </li>
+      </ul>
+    </section>
+
+    <!-- 学术服务 -->
+    <section class="section" id="services">
+      <h2>Professional Services <span class="more">[More]</span></h2>
+      <h3>Technical Program Committee (TPC)</h3>
+      <p>AutoSys Workshop @ MobiSys 2026</p>
+      <h3>Journal Reviewer</h3>
+      <p>ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Biomedical Signal Processing and Control, IEEE Internet of Things Magazine (IoTM),
+        IEEE Sensors Journal</p>
+    </section>
+
+    <!-- Teaching Experience -->
+    <section class="section" id="Teaching Experience">
+      <h2>Teaching Experience <span class="more">[More]</span></h2>
+      <h3>Teaching Assistant</h3>
+      <p>COMP3270: Computer Networks (CUHK, Fall 2024)</p>
+      <p>COMP3270: Computer Networks (CUHK, Fall 2024)</p>
+      <p>IEMS5726A/IERG4320: Data Science in Practice, 2023 Fall, 2025 Spring, CUHK</p>
+      <p>IEMS5727B: Internet of Things and Smart Applications, 2025 Spring, CUHK</p>
+      <p>IERG3840: Web Application Development Project, 2022 Spring, 2023 Spring, CUHK</p>
+      <p>IERG3080: Information and Software Engineering Practice, 2022 Fall, CUHK</p>
+    </section>
+
+    <!-- 近期报告 -->
+    <!-- <section class="section">
+      <h2>Recent Talks <span class="more">[More]</span></h2>
+      <ul class="news-list">
+        <li><span class="date">[2024]</span> <em>MedMNIST: Benchmarking Medical Image Analysis</em> [Slides]</li>
+        <li><span class="date">[2023]</span> <em>AI for Health: From Bench to Bedside</em> [Video]</li>
+      </ul>
+    </section> -->
+
+    <!-- 其他 -->
+    <!-- <section class="section">
+      <h2>Misc. <span class="hover-note">[Hover➚ to View]</span></h2>
+      <p>GitHub: <a href="https://github.com/duducheng" target="_blank">duducheng</a> · MedMNIST: <a href="https://medmnist.com" target="_blank">medmnist.com</a></p>
+    </section> -->
+
+    <!-- 访客地球：ClustrMaps 显示真实访客全球分布。登录 https://clustrmaps.com/ → My Websites → 找到 Bf-yang.github.io → 点 Code → 选择 Globe Widget → 复制完整 script 标签替换下方 -->
+    <section class="section visitor-globe-section">
+      <h2>Visitors</h2>
+      <div class="globe-container">
+        <!-- 将下方 script 替换为 ClustrMaps 提供的 Globe Widget 代码 -->
+        <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=YOUR_SITE_ID"></script>
+      </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+      <p>Copyright © 2026 Bufang Yang. This website is hosted on GitHub.</p>
+    </footer>
+  </div>
+  <script>
+    (function () {
+      var list = document.getElementById('news-list');
+      var btn = document.getElementById('news-more-btn');
+      if (!list || !btn) return;
+      var items = list.querySelectorAll('li');
+      if (items.length <= 5) { btn.style.display = 'none'; return; }
+      function toggle() {
+        list.classList.toggle('news-expanded');
+        btn.textContent = list.classList.contains('news-expanded') ? '[Less]' : '[More]';
+      }
+      btn.addEventListener('click', toggle);
+      btn.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); } });
+    })();
+  </script>
+</body>
+</html>
