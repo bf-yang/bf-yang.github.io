@@ -442,24 +442,42 @@ a:hover {
   color: #000;
 }
 
-/* 访客地球 - globe.gl 3D 旋转地球 */
+/* 访客地球 - ClustrMaps 3D 旋转地球 */
 .visitor-globe-section {
+  margin-top: -20px;
+  margin-bottom: 4px;
   text-align: center;
 }
 
 .visitor-globe-section .globe-container {
   width: 100%;
-  height: 400px;
-  margin-top: 8px;
+  height: 95px;
+  margin-top: 4px;
   border-radius: 8px;
   overflow: hidden;
   position: relative;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.visitor-globe-section .visitor-count {
+  margin: 0;
+  font-size: 17px;
+  color: #3d6fc4;
+}
+
+/* 缩小 ClustrMaps 地球尺寸以完整显示 */
+.visitor-globe-section .globe-container .clstrm_outer {
+  transform: scale(0.2);
+  transform-origin: center center;
 }
 
 /* 页脚 */
 .footer {
-  margin-top: 48px;
-  padding-top: 24px;
+  margin-top: 4px;
+  padding-top: 6px;
   font-size: 16px;
   color: #000;
 }
@@ -519,6 +537,6 @@ a:hover {
   }
 
   .visitor-globe-section .globe-container {
-    height: 280px;
+    height: 85px;
   }
 }
