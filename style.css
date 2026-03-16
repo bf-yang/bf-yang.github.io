@@ -369,6 +369,81 @@ a:hover {
   text-transform: uppercase;
 }
 
+.pub-abs-trigger,
+.pub-bib-trigger {
+  cursor: pointer;
+}
+
+/* ABS/BIB 弹框 */
+.pub-popup {
+  margin-top: 10px;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+.pub-popup.hidden {
+  display: none !important;
+}
+
+.pub-popup-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: #f6f8fa;
+  border-bottom: 1px solid #d0d7de;
+  font-weight: 600;
+  font-size: 14px;
+  color: #1a4d8c;
+}
+
+.pub-popup-close {
+  background: none;
+  border: none;
+  font-size: 20px;
+  line-height: 1;
+  color: #6a737d;
+  cursor: pointer;
+  padding: 0 4px;
+  border-radius: 4px;
+}
+
+.pub-popup-close:hover {
+  color: #1a4d8c;
+  background: #eaeef2;
+}
+
+.pub-popup-body {
+  padding: 14px 16px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #24292f;
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.pub-popup-body.pub-popup-abstract {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.pub-popup-body.pub-popup-bibtex pre {
+  margin: 0;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 12px;
+  line-height: 1.5;
+  white-space: pre;
+  overflow-x: auto;
+  color: #0d1117;
+}
+
+.pub-aux.hidden {
+  display: none !important;
+}
+
 /* Other Publications - 无图紧凑列表，与 Selected Publications 标题同规格 */
 .section h3.other-pub-title {
   font-family: Georgia, serif;
