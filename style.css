@@ -530,7 +530,7 @@ a:hover {
   height: 95px;
   margin-top: 4px;
   border-radius: 8px;
-  overflow: hidden;
+  overflow: visible; /* allow ClustrMaps hover tooltip to show */
   position: relative;
   min-height: 200px;
   display: flex;
@@ -546,7 +546,7 @@ a:hover {
 
 /* 缩小 ClustrMaps 地球尺寸以完整显示 */
 .visitor-globe-section .globe-container .clstrm_outer {
-  transform: scale(0.25);
+  transform: scale(0.28);
   transform-origin: center center;
 }
 
