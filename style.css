@@ -520,8 +520,8 @@ a:hover {
 
 /* 访客地球 - ClustrMaps 3D 旋转地球 */
 .visitor-globe-section {
-  margin-top: -20px;
-  margin-bottom: 4px;
+  margin-top: 0;
+  margin-bottom: 12px;
   text-align: center;
 }
 
@@ -530,7 +530,7 @@ a:hover {
   height: 95px;
   margin-top: 4px;
   border-radius: 8px;
-  overflow: visible; /* allow ClustrMaps hover tooltip to show */
+  overflow: hidden; /* prevent the globe from overlapping other sections */
   position: relative;
   min-height: 200px;
   display: flex;
@@ -546,7 +546,7 @@ a:hover {
 
 /* 缩小 ClustrMaps 地球尺寸以完整显示 */
 .visitor-globe-section .globe-container .clstrm_outer {
-  transform: scale(0.28);
+  transform: scale(0.31);
   transform-origin: center center;
 }
 
